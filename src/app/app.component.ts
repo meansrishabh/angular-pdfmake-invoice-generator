@@ -35,7 +35,7 @@ export class AppComponent {
     let docDefinition = {
       content: [
         {
-          text: 'ELECTRONIC SHOP',
+          text: 'Axis Crown InfoTech Private Limited',
           fontSize: 16,
           alignment: 'center',
           color: '#047886'
