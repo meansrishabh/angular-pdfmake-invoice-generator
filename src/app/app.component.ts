@@ -32,7 +32,7 @@ export class AppComponent {
   invoice = new Invoice(); 
   
   generatePDF(action = 'open') {
-    let docDefinition = {
+    const docDefinition = {
       content: [
         {
           text: 'Axis Crown InfoTech Private Limited',
